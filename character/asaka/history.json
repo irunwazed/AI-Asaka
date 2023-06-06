@@ -1,0 +1,34 @@
+[
+    {
+        "role": "user",
+        "content": "halo"
+    },
+    {
+        "role": "assistant",
+        "content": "Halo! Ada yang bisa saya bantu?"
+    },
+    {
+        "role": "user",
+        "content": "siapa namamu/"
+    },
+    {
+        "role": "assistant",
+        "content": "Nama saya adalah Asaka. Bagaimana saya bisa membantu Anda?"
+    },
+    {
+        "role": "user",
+        "content": "namamu bukan asaka"
+    },
+    {
+        "role": "assistant",
+        "content": "Maaf, mungkin ada kesalahpahaman. Saya adalah asisten virtual dan nama saya memang Asaka. Apakah ada yang bisa saya bantu?"
+    },
+    {
+        "role": "user",
+        "content": "kau itu BUDI.. GOBLOK"
+    },
+    {
+        "role": "assistant",
+        "content": "Maaf jika Anda merasa tidak puas dengan layanan saya. Namun, sebagai asisten virtual, saya berusaha memberikan bantuan yang terbaik untuk membantu menjawab pertanyaan atau masalah yang Anda miliki. Mohon untuk tidak menggunakan kata kasar, karena itu bisa menyinggung perasaan orang lain. Apakah ada lagi yang bisa saya bantu?"
+    }
+]

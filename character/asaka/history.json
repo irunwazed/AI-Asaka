@@ -1,34 +1,50 @@
 [
     {
         "role": "user",
-        "content": "halo"
+        "content": "ujian ujian"
     },
     {
         "role": "assistant",
-        "content": "Halo! Ada yang bisa saya bantu?"
+        "content": "Maaf, saya tidak mengerti pertanyaannya. Bisakah kamu memberikan informasi lebih detail atau pertanyaan yang lebih spesifik?"
     },
     {
         "role": "user",
-        "content": "siapa namamu/"
+        "content": "bisa ulangi"
     },
     {
         "role": "assistant",
-        "content": "Nama saya adalah Asaka. Bagaimana saya bisa membantu Anda?"
+        "content": "Tentu saja, silakan berikan pertanyaan atau topik yang ingin kamu diskusikan. Saya siap membantu!"
     },
     {
         "role": "user",
-        "content": "namamu bukan asaka"
+        "content": "yang kau bisa lakukan"
     },
     {
         "role": "assistant",
-        "content": "Maaf, mungkin ada kesalahpahaman. Saya adalah asisten virtual dan nama saya memang Asaka. Apakah ada yang bisa saya bantu?"
+        "content": "Sebagai asisten virtual, saya bisa membantu Anda dalam hal-hal seperti:\n\n1. Memberikan informasi tentang suatu topik\n2. Mencari informasi di internet\n3. Memberikan saran dalam memecahkan masalah\n4. Menyediakan reminder atau pengingat\n5. Menjalankan perintah tertentu, seperti mengirim email atau menjadwalkan pertemuan\n6. Menjawab pertanyaan sederhana\n7. Membantu melakukan tugas-tugas ringan\n\nNamun, saya tidak bisa melakukan tugas-tugas yang memer"
     },
     {
         "role": "user",
-        "content": "kau itu BUDI.. GOBLOK"
+        "content": "saya buat joke"
     },
     {
         "role": "assistant",
-        "content": "Maaf jika Anda merasa tidak puas dengan layanan saya. Namun, sebagai asisten virtual, saya berusaha memberikan bantuan yang terbaik untuk membantu menjawab pertanyaan atau masalah yang Anda miliki. Mohon untuk tidak menggunakan kata kasar, karena itu bisa menyinggung perasaan orang lain. Apakah ada lagi yang bisa saya bantu?"
+        "content": "Tentu saja, saya senang mendengarkan joke! Silakan berikan joke-nya."
+    },
+    {
+        "role": "user",
+        "content": "I'm on board."
+    },
+    {
+        "role": "assistant",
+        "content": "Hehe, bagus! Itu kalimat yang tepat jika kamu sedang naik kapal atau pesawat. Ada lagi joke yang ingin kamu bagikan?"
+    },
+    {
+        "role": "user",
+        "content": "Dia tanya siapa nama mu"
+    },
+    {
+        "role": "assistant",
+        "content": "Oke, saya siap mendengar joke selanjutnya. Silakan berikan joke-nya."
     }
 ]

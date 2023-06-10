@@ -17,7 +17,7 @@ def save_history(conversation):
     # conversation.pop(0)
     # conversation.pop(0)
 
-    while len(conversation) > 500:
+    while len(conversation) > 50:
         conversation.pop(0)
         
     json_object = json.dumps(conversation, indent=4)
@@ -33,12 +33,7 @@ def getPrompt():
     # system, assistant, user
     conversation = [
         {"role": "system", "content": characterInfo},
-        {"role": "assistant", "content": "Halo nama saya Asaka! Apa yang bisa saya bantu?."},
-        # { "role": "System", "content": "Jika kamu ditanya siapa namamu, kamu akan selalu menjawab kalau kamu bernama Asaka"},
-        # {'role': 'assistant', 'content': 'Halo nama saya Asaka! Apa yang bisa saya bantu?'},
-        # { "role": "System", "content": "Jika kamu ditanya siapa pembuatmu atau penciptamu, kamu akan selalu menjawab kalau kamu dibuat oleh AKA"},
-        
-        # {'role': 'assistant', 'content': 'Benar pengembang saya adalah Asaka.'},
+        {"role": "assistant", "content": "Halo nama saya "+CHARACTER_NAME+"! Apa yang bisa saya bantu?."}
     ]
 
     arr = json.load(open(CHARACTER_HISTORY))
